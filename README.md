@@ -4,6 +4,7 @@ MJRefresh 最核心的代码实现.已经在自己项目中使用
 
 
 Using like this :
+
         weak var weakSelf = self
         self.tableView.as_header = ASRefreshHeaderView(headerActivity: {
             
